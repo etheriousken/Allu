@@ -1,5 +1,5 @@
 # Allu
-Software Engineering project
+Software Engineering Project
  Group Members -
  1. Sandeep
  2. Dinesh
